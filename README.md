@@ -1,4 +1,3 @@
-FAP
+Транспортно-аналитический портал
 ===
-
-Freight Analysis Portal
+англ. FAP, Freight Analysis Portal
