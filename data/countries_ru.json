@@ -1,4 +1,5 @@
 {
+	"language": "ru",
 	"countries": [
 		{"iso": "AT", "name": "Австрия", "official_name": "Австрийская республика"},
 		{"iso": "AZ", "name": "Азербайджан", "official_name": "Азербайджанская Республика"},
@@ -23,7 +24,7 @@
 		{"iso": "HU", "name": "Венгрия", "official_name": "Венгрия"},
 		{"iso": "IE", "name": "Ирландия", "official_name": "Ирландская Республика"},
 		{"iso": "IS", "name": "Исландия", "official_name": "Исландия"},
-		24{"iso": "", "name": "", "official_name": ""},
+		{"iso": "", "name": "", "official_name": ""},
 		25{"iso": "", "name": "", "official_name": ""},
 		26{"iso": "", "name": "", "official_name": ""},
 		27{"iso": "", "name": "", "official_name": ""},
