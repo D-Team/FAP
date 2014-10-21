@@ -1,0 +1,6 @@
+extends layout
+
+block content
+    select
+        each val,key in country
+            option #{val.iso} : #{val.name} : #{val.official_name}
