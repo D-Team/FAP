@@ -1,0 +1,7 @@
+{
+    "languages": [
+        {"iso": "uk", "name": "Українська"},
+        {"iso": "ru", "name": "Русский"},
+        {"iso": "en", "name": "English"}
+    ]
+}
